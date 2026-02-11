@@ -1,3 +1,8 @@
+This Fork supports X96Q V1,1 boards. This boards Main diffrence with other X96Q ports Thats uses AXP305 as PMU and lpddr3 memory. For more information and my source for ports is located at https://forum.armbian.com/topic/33256-x96q-h313/page/4/#comment-212750.
+To build image select v25.11 branch and x96q as board target.
+Currently HDMI, ethernet and USB OTG port works, Other usb ports wifi and bluetooth don't work.
+
+
 <h3 align="center">
   <a href=#><img src="https://raw.githubusercontent.com/armbian/.github/master/profile/logosmall.png" alt="Armbian logo"></a>
   <br><br>
